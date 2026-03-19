@@ -16,12 +16,6 @@ An AI-powered trading assistant that analyzes market trends using technical indi
 
 ---
 
-## Demo
-
-(Add a screenshot, GIF, or live demo link here)
-
----
-
 ## Quick Start (Local)
 
 ```bash id="a1b2c3"
